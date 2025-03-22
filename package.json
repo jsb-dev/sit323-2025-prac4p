@@ -1,0 +1,26 @@
+{
+  "name": "sit323-2025-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsb-dev/sit323-2025-prac4p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsb-dev/sit323-2025-prac4p/issues"
+  },
+  "homepage": "https://github.com/jsb-dev/sit323-2025-prac4p#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
